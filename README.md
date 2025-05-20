@@ -1,2 +1,15 @@
-# landing-page
-Designed and coded a multi-section landing page from scratch using HTML and CSS. Practiced layout techniques with Flexbox and emphasized semantic structure and clean, maintainable code.
+Landing Page
+Designed and coded a responsive, multi-section landing page using HTML and CSS, based on a provided design mockup. This project demonstrates practical frontend skills, including:
+
+Semantic HTML structure
+
+Layout with Flexbox
+
+Clean, maintainable CSS
+
+Desktop-first design (mobile support in future projects)
+
+This was built as part of The Odin Project's Foundations curriculum to strengthen real-world layout and styling skills.
+
+Live Demo
+View the live site
